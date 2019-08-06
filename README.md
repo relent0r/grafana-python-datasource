@@ -1,3 +1,5 @@
+NOTE : This is not my work. It was done by oz123.
+
 Python Grafana Data Source
 ==========================
 
